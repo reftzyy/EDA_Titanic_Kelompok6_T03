@@ -5,11 +5,11 @@ Analisis eksplorasi data (EDA) untuk dataset Titanic.
 
 ## Anggota Kelompok  
 
-Muhammad Rifqi Ridho
-Anggih Prayoga
-Aldo Ardiyansyah Ba’adillah
-Muhammad Iqbal Abdul Ghoni
-Ibra Basith 
+- Muhammad Rifqi Ridho
+- Anggih Prayoga
+- Aldo Ardiyansyah Ba’adillah
+- Muhammad Iqbal Abdul Ghoni
+- Ibra Basith 
 
 ## Cara Menjalankan  
 1. Buka file EDA_Titanic.ipynb di Google Colab/Jupyter.  
